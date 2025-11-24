@@ -1,0 +1,18 @@
+# Project Statement for Rent Calculator by @jhaji
+
+## Problem Statement
+Managing shared accommodation expenses can be cumbersome and prone to disputes unless costs are fairly divided. Roommates often struggle with splitting rent, food, and electricity bills evenly.
+
+## Project Scope
+This project implements a console-based Rent Calculator that takes inputs on rent amount, food expenses, electricity units consumed, electricity charge rate, and the number of people sharing the accommodation, then calculates each person's share of the total monthly expense.
+
+## Target Users
+- Students or professionals living in shared hostels or flats.
+- Groups who want a simple, transparent method to split monthly accommodation expenses.
+
+## High-level Features
+- Input handling for rent, food, electricity usage, electricity rates, and roommates count.
+- Computes total electricity cost and sums it with rent and food expenses.
+- Divides the total by the number of persons and outputs per-person payable amount.
+- Provides a simple, interactive command-line interface for ease of use.
+
